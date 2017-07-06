@@ -1,5 +1,5 @@
 Component: main
-Origin: ramcip-certh-deb
-Label: ramcip-certh-deb
+Origin: certh_debian_repository
+Label: certh_debian_repository
 Architecture: amd64
 Description: Apt repository for project ramcip-certh
