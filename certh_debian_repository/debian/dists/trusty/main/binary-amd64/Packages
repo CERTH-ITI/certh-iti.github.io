@@ -1,0 +1,15 @@
+Package: ros-indigo-certh-core
+Version: 0.0.1-0trusty
+Architecture: amd64
+Maintainer: Sotiris Malassiotis <malasiot@iti.gr>
+Installed-Size: 2298
+Depends: libboost-filesystem1.54.0, libboost-iostreams1.54.0, libboost-regex1.54.0, libboost-system1.54.0, libboost-thread1.54.0, libc6 (>= 2.14), libcairo2 (>= 1.10.0), libfontconfig1 (>= 2.9.0), libgcc1 (>= 1:4.1.1), libgomp1 (>= 4.2.1), libopencv-calib3d2.4, libopencv-core2.4, libopencv-features2d2.4, libopencv-highgui2.4, libopencv-imgproc2.4, libpcl-common-1.7, libpcl-recognition-1.7, libpcl-search-1.7, libpcl-segmentation-1.7, libpcl-surface-1.7, libstdc++6 (>= 4.6), libopencv-dev, libpcl-1.7-all
+Priority: extra
+Section: misc
+Filename: pool/main/r/ros-indigo-certh-core/ros-indigo-certh-core_0.0.1-0trusty_amd64.deb
+Size: 668718
+SHA256: 3e3818cc2ca5964fe2cfd08fb3a1e137db8d94c3e3bcfc62fd700eb54d9370da
+SHA1: 92acf1a2711dfd5703ec2aa6438c67f0a4b782db
+MD5sum: df67569ff91fcd8db44139c008dede79
+Description: Various libraries for vision and geometry
+
