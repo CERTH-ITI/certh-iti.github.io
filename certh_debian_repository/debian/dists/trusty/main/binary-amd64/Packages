@@ -58,6 +58,21 @@ SHA1: b16349bbe7d1aae8da69fbf1b62999bf9e96b21f
 MD5sum: 920aaf8b6b4a7fe32c1f896c4da9ce99
 Description: Face detection, recognition, landmarks
 
+Package: ros-indigo-certh-ip-camera
+Version: 0.0.0-0trusty
+Architecture: amd64
+Maintainer: Manolis Vasiliadis <mavasile@iti.gr>
+Installed-Size: 98
+Depends: libc6 (>= 2.14), libcurl3 (>= 7.16.2), libgcc1 (>= 1:4.1.1), libopencv-core2.4, libopencv-highgui2.4, libstdc++6 (>= 4.4.0)
+Priority: extra
+Section: misc
+Filename: pool/main/r/ros-indigo-certh-ip-camera/ros-indigo-certh-ip-camera_0.0.0-0trusty_amd64.deb
+Size: 11244
+SHA256: 747191f9217e80e4b7832cbb65d6f0fb9f630c96478aae42c6b0a134cd08a3ad
+SHA1: ac705fba7d748779b10dbc47c10b329df1f9dd3f
+MD5sum: 1d850eb544179c4f45b13484b5d8bbec
+Description: ip camera with motion
+
 Package: ros-indigo-certh-large-object-tracking
 Version: 0.0.1-0trusty
 Architecture: amd64
