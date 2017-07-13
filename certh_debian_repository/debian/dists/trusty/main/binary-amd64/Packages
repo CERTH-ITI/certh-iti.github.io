@@ -44,18 +44,18 @@ MD5sum: df67569ff91fcd8db44139c008dede79
 Description: Various libraries for vision and geometry
 
 Package: ros-indigo-certh-face
-Version: 0.0.0-0trusty
+Version: 0.0.2-0trusty
 Architecture: amd64
 Maintainer: S. Malasiotis <malasiot@iti.gr>
-Installed-Size: 1331
+Installed-Size: 1332
 Depends: libopencv-dev, ros-indigo-certh-core, ros-indigo-cmake-modules, ros-indigo-cv-bridge, ros-indigo-image-transport, ros-indigo-roscpp, ros-indigo-roslib, ros-indigo-sensor-msgs, ros-indigo-std-msgs
 Priority: extra
 Section: misc
-Filename: pool/main/r/ros-indigo-certh-face/ros-indigo-certh-face_0.0.0-0trusty_amd64.deb
-Size: 460344
-SHA256: f94562dfccae218e4498fcb631f7ff8168e8aa50ab21ea50dc405ea72b379856
-SHA1: b16349bbe7d1aae8da69fbf1b62999bf9e96b21f
-MD5sum: 920aaf8b6b4a7fe32c1f896c4da9ce99
+Filename: pool/main/r/ros-indigo-certh-face/ros-indigo-certh-face_0.0.2-0trusty_amd64.deb
+Size: 462640
+SHA256: 8868bb7f9e3e6e87c234436bb6c30acb08e8140e7373ccada89225e721c42d63
+SHA1: 3888b1b4fa8f32259176a3b19512c30e759caf8a
+MD5sum: 36d6ee7dab1f3db560b12b7e983d71c8
 Description: Face detection, recognition, landmarks
 
 Package: ros-indigo-certh-ip-camera
