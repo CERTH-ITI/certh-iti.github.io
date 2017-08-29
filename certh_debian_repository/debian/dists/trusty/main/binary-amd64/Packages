@@ -89,18 +89,18 @@ MD5sum: 50faab6ad4c612aba7afdb5d0c36ff51
 Description: The certh_large_object_tracking package
 
 Package: ros-indigo-certh-object-recognition
-Version: 0.0.6-0trusty
+Version: 0.0.7-0trusty
 Architecture: amd64
 Maintainer: Evangelos Skartados <eskartad@iti.gr>
 Installed-Size: 1678
 Depends: libopencv-dev, libpcl-1.7-all, ros-indigo-certh-core, ros-indigo-cmake-modules, ros-indigo-cv-bridge, ros-indigo-geometry-msgs, ros-indigo-message-filters, ros-indigo-message-runtime, ros-indigo-pcl-conversions, ros-indigo-pcl-ros, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-sensor-msgs, ros-indigo-std-msgs, ros-indigo-tf
 Priority: extra
 Section: misc
-Filename: pool/main/r/ros-indigo-certh-object-recognition/ros-indigo-certh-object-recognition_0.0.6-0trusty_amd64.deb
-Size: 403164
-SHA256: ef54ccb2f9c6f67d6bab6c6a3e4ee54df2d6791791e214d35734b1a1e8e653ad
-SHA1: 0f2b4b19c7c6810a398a0db6ed69a63881ceebee
-MD5sum: 68dcb47875e969e24ad6dfd0d3a001c2
+Filename: pool/main/r/ros-indigo-certh-object-recognition/ros-indigo-certh-object-recognition_0.0.7-0trusty_amd64.deb
+Size: 403768
+SHA256: 7c09d5b6c384796213e2e9b8bf5cb249ed6e80d8110bbbbba135b1b1ce6ed219
+SHA1: d8be2a755202a7df717a55bf9baffb015220c490
+MD5sum: 1596bbfd50ad959946a70147b68d275b
 Description: Object recognition algorithms
 
 Package: ros-indigo-certh-obstacle-tracking
