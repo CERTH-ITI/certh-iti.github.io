@@ -74,18 +74,18 @@ MD5sum: 1d850eb544179c4f45b13484b5d8bbec
 Description: ip camera with motion
 
 Package: ros-indigo-certh-large-object-tracking
-Version: 0.0.1-0trusty
+Version: 0.0.2-0trusty
 Architecture: amd64
 Maintainer: G. Peleka <gepe@iti.gr>
-Installed-Size: 786
+Installed-Size: 827
 Depends: ros-indigo-certh-core, ros-indigo-certh-renderer, ros-indigo-roscpp
 Priority: extra
 Section: misc
-Filename: pool/main/r/ros-indigo-certh-large-object-tracking/ros-indigo-certh-large-object-tracking_0.0.1-0trusty_amd64.deb
-Size: 205234
-SHA256: 42a13fb081d7f091dfc73a31541b2623246cf1747c7491a0c7ce963ae1604cca
-SHA1: 80263095b3cda359801c2bf43d43be437efaaba4
-MD5sum: 50faab6ad4c612aba7afdb5d0c36ff51
+Filename: pool/main/r/ros-indigo-certh-large-object-tracking/ros-indigo-certh-large-object-tracking_0.0.2-0trusty_amd64.deb
+Size: 214096
+SHA256: e79cf7b44b2b83e6ef87714c3a45e026f656e81c2864d09f9b9823303533eb2f
+SHA1: 214ad17841be1cdd839f2769735abab5106454b6
+MD5sum: 15d44f8693ee79eeb94c3cc3d50e5fba
 Description: The certh_large_object_tracking package
 
 Package: ros-indigo-certh-object-recognition
