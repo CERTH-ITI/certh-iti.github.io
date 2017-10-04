@@ -58,6 +58,21 @@ SHA1: ad622c50c276fb19d16c6515cbb83d87d8e47a1a
 MD5sum: a1d09066e6c20bcaac139aba10ff146d
 Description: Face detection, recognition, landmarks
 
+Package: ros-indigo-certh-face-dlib
+Version: 0.0.0-0trusty
+Architecture: amd64
+Maintainer: Manolis Vasileiadis <mavasile@iti.gr>
+Installed-Size: 215
+Depends: libboost-python1.54.0, libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libopencv-core2.4, libopencv-imgproc2.4, libpython2.7 (>= 2.7), libstdc++6 (>= 4.4.0)
+Priority: extra
+Section: misc
+Filename: pool/main/r/ros-indigo-certh-face-dlib/ros-indigo-certh-face-dlib_0.0.0-0trusty_amd64.deb
+Size: 38050
+SHA256: 3a39aa3e3056d498cdf8953bc21bea82f2cbbf30e36579abd83b69a0ff8329a6
+SHA1: 9dba896bcb6a246b8f9211a418b2599a1d90cf33
+MD5sum: 31f6dcbd330c172ad817b06b89b46717
+Description: ip camera with motion
+
 Package: ros-indigo-certh-ip-camera
 Version: 0.0.0-0trusty
 Architecture: amd64
